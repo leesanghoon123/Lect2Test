@@ -1,1 +1,3 @@
+#이름:
+#학번:
 print("Hello, World!")
