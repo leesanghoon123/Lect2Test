@@ -35,6 +35,9 @@ def enter():
     grass = Grass()
     game_world.add_object(grass, 0)
 
+    global bird
+    bird = Bird()
+    game_world.add_object(bird, 5)
     # fill here for balls
 
 
